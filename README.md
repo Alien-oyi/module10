@@ -4,6 +4,9 @@
 ## Description
 An SVG logo Generetor is a tool that allows users to create logos in the scalable vector graphics (SVG) format.
 
+## Walkthrough video
+https://drive.google.com/file/d/1wqt-cSTGJH_tmkNPsTeJSVcplutcNpdS/view
+
 ## Deployed Link
 None
 
